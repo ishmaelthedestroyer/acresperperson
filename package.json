@@ -1,0 +1,25 @@
+{
+  "name": "acresperperson",
+  "version": "0.0.0",
+  "description": "Realtime statistics.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ishmaelthedestroyer/acresperperson"
+  },
+  "keywords": [
+    "acres"
+  ],
+  "author": "ishmaelthedestroyer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ishmaelthedestroyer/acresperperson/issues"
+  },
+  "homepage": "https://github.com/ishmaelthedestroyer/acresperperson",
+  "dependencies": {
+    "express": "~3.4.8"
+  }
+}
